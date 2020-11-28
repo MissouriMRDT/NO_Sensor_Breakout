@@ -1,0 +1,8 @@
+Id,Designator,Package,Designation,Item Name,Part Number,Vendor,Quantity,Cost Per Item,Cost,URL
+1,U1,USEQGSEAN8L180,USEQGSEAN8L180,NO Sensor,"	USEQGSEAN8L180",Newark,1,21.54,21.54,https://www.newark.com/kemet/useqgsean8l180/ir-gas-detector-sensor-serial/dp/54AH7766?ost=useqgsean8l180
+2,"R2,R1",R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,1K,"	
+RES SMD 1K OHM","	
+ESR03EZPJ102",Digikey,2,0.1,0.2,https://www.digikey.com/en/products/detail/rohm-semiconductor/ESR03EZPJ102/1762924
+3,Conn1,MOLEX_SL_04_Vertical,Molex_SL_04,Molex_SL_04,"	70107-0003",Newark,1,0.602,0.602,https://www.newark.com/molex/70107-0003/connector-housing-plug-4pos/dp/89C2447?ost=WM2535-ND&iscrfnonsku=true&ddkey=https%3Aen-US%2FElement14_US%2Fsearch
+4,C1,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,10uF,CAP CER 10UF 6.3V,"	
+CL10B106MQ8NRNC",Digikey,1,0.78,0.78,https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL10B106MQ8NRNC/3887606?s=N4IgTCBcDaIDoBcDCAZAjABgEKYGwFkBFADgDkAlUpEAXQF8g
