@@ -1,0 +1,8 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"G***";"W";1;"LOGO";;;
+2;"G***";"z_sig_Anthony_Robles_15mmx8.2mm";1;"LOGO";;;
+3;"REF**,REF**";"4_40_Hole_Corner";2;"4_40_Hole";;;
+4;"U1";"USEQGSEAN8L180";1;"USEQGSEAN8L180";;;
+5;"R2,R1";"R_0603_1608Metric_Pad0.98x0.95mm_HandSolder";2;"1K";;;
+6;"Conn1";"MOLEX_SL_04_Vertical";1;"Molex_SL_04";;;
+7;"C1";"C_0603_1608Metric_Pad1.08x0.95mm_HandSolder";1;"10uF";;;
